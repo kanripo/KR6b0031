@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大意經
+#+DATE: 2015-08-30 19:34:13.656641
+#+PROPERTY: JUAN 0
