@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:13.430300
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:54
 #+TITLE: 大意經
 #+PROPERTY: CBETA_ID T03n0177
 #+PROPERTY: ID KR6b0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 177
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0031_T_000-0446a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0031_T_001-0446a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.177[No.152(9)]¶
-
- 佛說大意經¶
+No. 177 [No. 152(9)]¶
+佛說大意經¶
 ¶
 宋天竺三藏求那跋陀羅譯¶
 
